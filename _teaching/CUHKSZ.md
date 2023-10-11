@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant at the CUHKSZ"
+title: "Teaching Assistant at the CUHK Shenzhen"
 collection: teaching assitant
 type: "Undergraduate course"
 permalink: /teaching/CUHKSZ
