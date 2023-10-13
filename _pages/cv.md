@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electronic Information Engineering, Beihang University, 2020
-* M.Phil. in Computer and Information Engineering, The Chinese University of Hong Kong,Shenzhen , 2022
+* M.Phil. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2022
 * Ph.D focusing studies in artificial intelligence in remote sensing (AI4RS), Helmholtz-Zentrum Dresden-Rossendorf, 2026 (expected)
 
 Research experience

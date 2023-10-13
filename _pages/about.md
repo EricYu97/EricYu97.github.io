@@ -26,6 +26,4 @@ My previous research experience includes:
 * Transformer Models
 * Diffusion Models
 
-
-
-
+See more at the website of our lab: [AI4RS](https://www.ai4rs.com/)
