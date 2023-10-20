@@ -14,14 +14,5 @@ My research focuses on developing cutting edge deep learning models for remote s
 
 
 My research experience and interests include Remote Sensing and Deep Learning.
-<!-- * AI Security in RS
-* Change Detection
-* Federated Learning
-* Cloud Removal
-* Multi-Target Domain Adaptation (MTDA)
-* Text-to-Image Generation
-* Weakly-Supervised Learning
-* Transformer Models
-* Diffusion Models -->
 
 See more at the website of our team: [AI4RS](https://www.ai4rs.com/)
