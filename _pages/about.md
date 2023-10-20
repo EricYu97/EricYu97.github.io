@@ -13,6 +13,15 @@ I am a PhD researcher at the Helmholtz Institute Freiberg (HIF) for Resource Tec
 My research focuses on developing cutting edge deep learning models for remote sensing (RS) applications, as parts of the Artificial Intelligence for Remote Sensing (AI4RS) studies. In particular, I'm interested in the studies of change detection, unsupervised domain adaptation (UDA), and image enhancement.  
 
 
-My research experience and interests include Remote Sensing and Deep Learning.
+My research experience and interests include Remote Sensing and Deep Learning especially:
+* AI Security in RS
+* Change Detection
+* Federated Learning
+* Cloud Removal
+* Multi-Target Domain Adaptation (MTDA)
+* Text-to-Image Generation
+* Weakly-Supervised Learning
+* Transformer Models
+* Diffusion Models
 
 See more at the website of our team: [AI4RS](https://www.ai4rs.com/)
