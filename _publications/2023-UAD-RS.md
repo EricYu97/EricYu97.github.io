@@ -3,12 +3,12 @@ title: "Universal Adversarial Defense in Remote Sensing Based on Pre-trained Den
 collection: publications
 permalink: /publication/2023-UAD-RS
 excerpt: 'This paper is about the universal adversarial defense in remote sensing, which utilized a DDPM model to defend the deep learning models against the adversarial perturbations.'
-date: 2023-07-31
-venue: 'arxiv preprint'
-paperurl: 'https://arxiv.org/abs/2307.16865'
+date: 2024-09-06
+venue: 'International Journal of Applied Earth Observation and Geoinformation'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1569843224004850'
 ---
 This paper is about the universal adversarial defense in remote sensing, which utilized a DDPM model to defend the deep learning models against the adversarial perturbations.
 
-[Download paper here](https://arxiv.org/pdf/2307.16865.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1569843224004850)
 
-Recommended citation: Yu, W., Xu, Y. and Ghamisi, P., 2023. Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models. arXiv preprint arXiv:2307.16865.
+Recommended citation: Yu, W., Xu, Y. and Ghamisi, P. (2024) “Universal adversarial defense in remote sensing based on pre-trained denoising diffusion models,” International Journal of Applied Earth Observation and Geoinformation. Elsevier BV. Available at: https://doi.org/10.1016/j.jag.2024.104131.
