@@ -20,6 +20,6 @@ My research experience and interests include Remote Sensing and Deep Learning es
 * Multi-Target Domain Adaptation (MTDA)
 * Weakly-Supervised Learning
 * Foundation Models
-* Mining Industries
+* AI4RS Applications in Mining Industries
 
 See more at the website of our team: [AI4RS](https://www.ai4rs.com/)
