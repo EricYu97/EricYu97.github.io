@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Weikang Yu"
   avatar           : "profile.jpg"
-  bio              : "PhD Researcher"
+  bio              : "PhD Researcher at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) and Technical University of Munich (TUM)"
   location         : "09599 Freiberg, Sachsen, Germany"
-  employer         : "Helmholtz-Zentrum Dresden-Rossendorf (HZDR) and Technical University of Munich (TUM)"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MjsztHYAAAAJ&hl=en"
   email            : "w.yu@hzdr.de"
