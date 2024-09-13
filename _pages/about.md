@@ -14,12 +14,11 @@ My research focuses on developing cutting edge deep learning models for remote s
 
 
 My research experience and interests include Remote Sensing and Deep Learning especially:
-* AI Security in RS
-* Change Detection
-* Responsible AI
-* Multi-Target Domain Adaptation (MTDA)
-* Weakly-Supervised Learning
+* Change Detection and Change Captioning
+* Remote Sensing for Mining Industry
 * Foundation Models
-* AI4RS Applications in Mining Industries
+* Multi-task Learning
+* Weakly Supervised Learning
+* Responsible AI
 
 See more at the website of our team: [AI4RS](https://www.ai4rs.com/)
